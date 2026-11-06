@@ -47,7 +47,7 @@
 
 (source de l'image : google)
 
-- Types de produits et de services :  Création de jeux vidéo pour ordinateurs, consoles et téléphones. Certains studios offrent aussi du contenu supplémentaire     et des mises à jour.
+- Types de produits et de services :  Création de jeux vidéo pour ordinateurs, consoles et téléphones. 
 - Étapes de production : Trouver une idée, planifier le jeu, créer les personnages et les environnements, programmer les mécaniques, tester le jeu et finalement    le publier.
 - Type d'emploi visé :  Concepteur de jeux vidéo (Game Designer). Ce métier consiste à imaginer les règles, les niveaux et les mécaniques d'un jeu.
 - Étapes pour obtenir cet emploi : Faire des études dans un domaine lié au multimédia ou aux jeux vidéo, apprendre à utiliser des logiciels de création, réaliser   des projets personnels, créer un portfolio et postuler dans un studio.
