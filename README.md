@@ -3,7 +3,7 @@
 ## Découverte de soi
 
 - Mes forces : ...
-    - Exemple : Ma perseverance et lma créativité
+    - Exemple : Ma perseverance et ma créativité
 - Mes faiblesses ou points à améliorer : ...
     - Exemple : Organisation de temps et travaux
 - Seul(e) ou en équipe : équipe
