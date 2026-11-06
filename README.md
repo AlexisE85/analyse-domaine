@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Ubisoft
 
-![Nom de l'entreprise]()
+![Nom de l'entreprise](https://www.ubisoft.com/en-ca)
 
 (source de l'image : google)
 
