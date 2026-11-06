@@ -43,8 +43,7 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Ubisoft
 
-![Nom de l'entreprise](<img width="1280" height="1062" alt="image" src="https://github.com/user-attachments/assets/818c4668-2473-405c-91c6-e58808e4c2ca" />
-)
+![Nom de l'entreprise](https://www.bing.com/images/search?view=detailV2&ccid=8bL4V2UP&id=33E1923F334E0D0097C3EE65A749752416CDFDC3&thid=OIP.8bL4V2UP0xnXJI4jAIKIZQHaGJ&mediaurl=https%3A%2F%2Flogodix.com%2Flogo%2F1178865.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.f1b2f857650fd319d7248e2300828865%3Frik%3Dw%252f3NFiR1Sadl7g%26pid%3DImgRaw%26r%3D0&exph=1062&expw=1280&q=ubisoft&form=IRPRST&ck=A8B38C459ADFFC287C5F8B716EF9FCCB&selectedindex=2&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_vtzaOLAR*cp_868F2C9FE3674AE3CB764EF1557155A5*mid_DFF175CABD1C927154F28D9F6D0966DA34094485*thid_OIF.ho8sn%252BNnSuPLdk7xVXFVpQ&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0)
 
 (source de l'image : google)
 
